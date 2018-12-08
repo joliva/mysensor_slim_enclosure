@@ -10,6 +10,7 @@ Incorporates the following third-party libraries:
 * OpenSCAD Ruler (SAE & Metric), https://www.thingiverse.com/thing:1741429
 
 ![](https://github.com/joliva/mysensor_slim_enclosure/blob/master/mysensor_slim_housing.jpg)
+![](https://github.com/joliva/mysensor_slim_enclosure/blob/master/internals.jpg)
 
 # Usage
 
