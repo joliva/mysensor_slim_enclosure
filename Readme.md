@@ -20,6 +20,8 @@ Incorporates the following third-party libraries:
 4. Insert 2 AA batteries into battery holder
 5. Slide dovetail lid onto sensor enclosure bottom.
 
+Battery contacts: https://www.ebay.com/itm/10-50-100pair-Silver-Tone-Metal-Battery-Spring-Plate-Set-for-AA-AAA-Batteries/401527824016
+
 # Print Settings
 
 * Printer: Prusa MK3
